@@ -1,6 +1,4 @@
 ## Hey 👋
-
-### About Me
 👩‍💻 Lorena <br>
 📚 4th semester computer science student<br>
 🇧🇷  Brazilian<br>
