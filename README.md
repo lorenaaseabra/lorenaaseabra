@@ -1,8 +1,8 @@
 ## Hey 👋
 👩‍💻 Lorena <br>
-📚 6th semester computer science student<br>
+📚 7th semester computer science student<br>
 🇧🇷  Brazilian<br>
-📍 Porto, Portugal (exchange program)<br>
+📍 Recife, Brazil<br>
 
 ## Reach me
 <div>
