@@ -1,8 +1,8 @@
 ## Hey 👋
 👩‍💻 Lorena <br>
-📚 7th semester computer science student<br>
-🇧🇷  Brazilian<br>
-📍 Recife, Brazil<br>
+📚 Software engineer focused on researching female productivity in IT.<br>
+🇧🇷 Brazilian<br>
+📍 Dublin, Ireland<br>
 
 ## Reach me
 <div>
