@@ -3,6 +3,7 @@
 📚 Software engineer focused on researching female productivity in IT.<br>
 🇧🇷 Brazilian<br>
 📍 Dublin, Ireland<br>
+📑 Portfolio: https://lorenaaseabra.github.io/
 
 ## Reach me
 <div>
